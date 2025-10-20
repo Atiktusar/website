@@ -1,0 +1,7 @@
+Ignore common operating system and editor files
+.DS_Store
+Thumbs.db
+Ignore any local build files or dependencies (if you ever use them)
+/node_modules
+/dist
+/build
